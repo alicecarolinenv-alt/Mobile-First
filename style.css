@@ -10,7 +10,6 @@ body {
     width: 430px;
     font-family: "Mulish";
 }
-
 * {
     margin: 0px;
     padding: 0;
@@ -22,7 +21,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: var(--cor-cabecalho);
-    padding: 15px;
+    padding: 15px
 
 }
 
